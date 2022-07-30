@@ -1,0 +1,1 @@
+const e={key:"v-1653bae4",path:"/designPattern/singleton.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:3,title:"\u5355\u4F8B\u6A21\u5F0F",slug:"\u5355\u4F8B\u6A21\u5F0F",children:[]}],git:{updatedTime:1647779175e3,contributors:[{name:"hjwhuge",email:"hujiawei_h@163.com",commits:1}]},filePathRelative:"designPattern/singleton.md"};export{e as data};

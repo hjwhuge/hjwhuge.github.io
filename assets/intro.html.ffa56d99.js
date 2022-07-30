@@ -1,0 +1,1 @@
+const e={key:"v-366cae83",path:"/algorithm/greedy/intro.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:3,title:"\u8D2A\u5FC3\u7B97\u6CD5",slug:"\u8D2A\u5FC3\u7B97\u6CD5",children:[]}],git:{updatedTime:1651823131e3,contributors:[{name:"hjwhuge",email:"hujiawei_h@163.com",commits:4}]},filePathRelative:"algorithm/greedy/intro.md"};export{e as data};
