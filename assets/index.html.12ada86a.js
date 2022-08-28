@@ -1,0 +1,1 @@
+const e={key:"v-6087d9b6",path:"/designPattern/",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651112952e3,contributors:[{name:"hjwhuge",email:"hujiawei_h@163.com",commits:5}]},filePathRelative:"designPattern/index.md"};export{e as data};
